@@ -1,0 +1,1 @@
+- Preonboarding github action 실습 시나리오3
